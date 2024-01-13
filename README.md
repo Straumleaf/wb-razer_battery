@@ -1,7 +1,7 @@
 # wb-razer_battery
 Waybar plugin for Razer wireless keyboard to show its battery status. Plugin also indicating when keyboard is charging.
 
-+ copy script file to waybar script directory ussualy **./config/waybar/script**
++ copy script file **razer_battery.sh** to waybar script directory ussualy **./config/waybar/scripts**
 + add next settings to the waybar config file
 
         "custom/razer-battery": {
